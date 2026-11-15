@@ -17,6 +17,19 @@ A simple console application for managing daily tasks.
 3. Select **Run Python File** in the top-right corner.
 4. Use the menu shown in the terminal.
 
+## Example
+
+```text
+=== TASK MANAGER ===
+1. Add a task
+2. Display tasks
+3. Search for a task
+0. Exit
+Your choice: 1
+Task title: Review Python
+Task added successfully.
+```
+
 ## Project steps
 
 - Implemented the task list and console menu in `main.py`
